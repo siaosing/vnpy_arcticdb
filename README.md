@@ -1,0 +1,2 @@
+由于arctic不再支持python3.7之后的版本，其官方团队切换至arcticdb项目(目前支持python3.6~3.11），VeighNa官方团队的vnpy_arctic在VNStudio 3.0系列之后不再维护更新。
+本项目基于arcticdb文档和vnpy_arctic代码重新开发，供大家参考使用。
